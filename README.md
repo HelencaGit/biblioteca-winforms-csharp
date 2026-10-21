@@ -20,6 +20,6 @@ C# · .NET Framework 4.7.2 · Windows Forms · Visual Studio
 Los datos se guardan en memoria mientras la aplicación está abierta; las portadas se guardan en la carpeta `imagenes` junto al ejecutable.
 
 ## Capturas
-![Menú principal](capturas_biblioteca/menu.png)
-![Alta de libros](capturas_biblioteca/alta.png)
-![Consulta de libros](capturas_biblioteca/consulta.png)
+![Menú principal](Capturas_biblioteca/menu.png)
+![Alta de libros](Capturas_biblioteca/alta.png)
+![Consulta de libros](Capturas_biblioteca/consulta.png)
